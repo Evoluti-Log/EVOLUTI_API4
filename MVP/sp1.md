@@ -24,7 +24,7 @@
 | US2 | Como analista de dados, quero tratar e limpar os dados coletados, para garantir qualidade, consistência e confiabilidade nas análises.        | Alta      | 5 pontos   |
 | US3 | Como analista de dados, quero desenvolver um script em Python para coleta de dados da ANTAQ, para automatizar a obtenção das informações necessárias.         | Alta      | 8 pontos   |
 | US4 | Como analista de dados, quero realizar uma análise exploratória inicial no Google Colab, para identificar padrões, gerar insights e validar os dados.       | Alta       | 5 pontos   |
-
+| US4 | Como analista de dados, pretendo desenvolver um protótipo e apresentá-lo em BI.       | Baixa      | 2 pontos   |
 
 ---
 
@@ -35,7 +35,7 @@
 | 02     | Fazer script em Python.        | Concluído |
 | 03     | Limpar dados.      | Concluído |
 | 04     | Primeira análise no Colab.      | Concluído |
-
+| 05     | Protótipo (2023 - 2024).      | Concluído |
 
 ---
 
