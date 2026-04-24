@@ -157,7 +157,7 @@ Sprint 4: finalização
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:------:|:----------:|:-------------------|:------------:|
-| 01     | 24/04 | Em andamento   | [MVP](MVP/sp1.md)|
+| 01     | 24/04 | Concluido   | [MVP](MVP/sp1.md)|
 | 02 | 15/05 | Em andamento    | [MVP]()|
 | 03 | 05/06 | Em andamento    | [MVP]()
 | Feira de soluções | 18/06 | Em andamento | [MVP]()|
