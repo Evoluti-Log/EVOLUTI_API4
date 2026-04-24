@@ -108,16 +108,17 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 | 2    | Alta       | Como analista de dados, quero tratar e limpar os dados coletados, para garantir qualidade, consistência e confiabilidade nas análises.                                                                  | 8          | 1      |
 | 3    | Alta       | Como analista de dados, quero desenvolver um script em Python para coleta de dados da ANTAQ,para automatizar a obtenção das informações necessárias.                                               | 5          | 1      |
 | 4    | Alta       | Como analista de dados, quero realizar uma análise exploratória inicial no Google Colab, para identificar padrões, gerar insights e validar os dados.   | 8         | 1      |
-| 5    | Alta       | Como analista de dados,quero selecionar e organizar os dados dos anos de 2023 e 2024, para realizar análises comparativas recentes da eficiência portuária.   | 5          | 2      |
-| 6    | Média       | Como analista de dados,quero filtrar os dados por cargas específicas, como soja e milho, para analisar o comportamento e a eficiência dessas commodities nos portos.   | 5          | 2      |
-| 7    | Média       | Como analista de dados,quero estruturar um banco de dados em SQL, para armazenar, consultar e gerenciar os dados de forma eficiente.   | 5          | 2      |
-| 8    | Alta       | Como analista de dados, quero desenvolver métricas como Top 10, total de atracações e volume de cargas, para avaliar o desempenho dos terminais portuários e gerar insights estratégicos.   | 5          | 2      |
-| 9    | Alta       | Como analista de dados, quero desenvolver um dashboard interativo, para visualizar de forma dinâmica os indicadores de eficiência portuária.   | 8         | 2      |
-| 10    | Alta       | Como analista de dados, quero criar um ranking de eficiência dos terminais portuários, para comparar desempenhos e identificar os mais eficientes.   | 5          | 2      |
-| 11    | Alta       | Como analista de dados, quero analisar os tempos de operação dos terminais, para identificar gargalos e oportunidades de melhoria.   | 5          | 2      |
-|12    | Média       | Como analista de dados, quero analisar os motivos de paradas portuárias, para entender as causas de ineficiência e propor melhorias.   | 5          | 3      |
-| 13    | Alta       | Como analista de dados, quero desenvolver um algoritmo de cálculo de eficiência, para gerar um indicador consolidado de desempenho dos terminais.  | 5          | 3      |
-| 14    | Alta       | Como analista de dados,quero desenvolver uma interface final responsiva e com boa performance, para garantir uma experiência de uso eficiente na visualização dos dados e dashboards do projeto.  | 5          | 3      |
+| 5    | Baixa       | Como analista de dados, pretendo desenvolver um protótipo e apresentá-lo em BI.   | 2         | 1      |
+| 6    | Alta       | Como analista de dados,quero selecionar e organizar os dados dos anos de 2023 e 2024, para realizar análises comparativas recentes da eficiência portuária.   | 5          | 2      |
+| 7    | Média       | Como analista de dados,quero filtrar os dados por cargas específicas, como soja e milho, para analisar o comportamento e a eficiência dessas commodities nos portos.   | 5          | 2      |
+| 8    | Média       | Como analista de dados,quero estruturar um banco de dados em SQL, para armazenar, consultar e gerenciar os dados de forma eficiente.   | 5          | 2      |
+| 9    | Alta       | Como analista de dados, quero desenvolver métricas como Top 10, total de atracações e volume de cargas, para avaliar o desempenho dos terminais portuários e gerar insights estratégicos.   | 5          | 2      |
+| 10    | Alta       | Como analista de dados, quero desenvolver um dashboard interativo, para visualizar de forma dinâmica os indicadores de eficiência portuária.   | 8         | 2      |
+| 11    | Alta       | Como analista de dados, quero criar um ranking de eficiência dos terminais portuários, para comparar desempenhos e identificar os mais eficientes.   | 5          | 2      |
+| 12    | Alta       | Como analista de dados, quero analisar os tempos de operação dos terminais, para identificar gargalos e oportunidades de melhoria.   | 5          | 2      |
+|13    | Média       | Como analista de dados, quero analisar os motivos de paradas portuárias, para entender as causas de ineficiência e propor melhorias.   | 5          | 3      |
+| 14    | Alta       | Como analista de dados, quero desenvolver um algoritmo de cálculo de eficiência, para gerar um indicador consolidado de desempenho dos terminais.  | 5          | 3      |
+| 15    | Alta       | Como analista de dados,quero desenvolver uma interface final responsiva e com boa performance, para garantir uma experiência de uso eficiente na visualização dos dados e dashboards do projeto.  | 5          | 3      |
 
 
 
