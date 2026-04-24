@@ -156,11 +156,11 @@ Sprint 4: finalização
 # Sprints e Relatórios
 
 | Sprint | Previsão de entrega | Status           | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 24/04 | Em andamento   | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
-| 02 | 15/05 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
-| 03 | 05/06 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17962405/RELATORIO.SPRINT.3.docx)
-| Feira de soluções | 18/06 | Em andamento | [Relatório](https://github.com/user-attachments/files/17962423/RELATORIO.SPRINT.4-1.docx)|
+|:------:|:----------:|:-------------------|:------------:|
+| 01     | 24/04 | Em andamento   | [MVP]([)|
+| 02 | 15/05 | Em andamento    | [MVP]()|
+| 03 | 05/06 | Em andamento    | [MVP]()
+| Feira de soluções | 18/06 | Em andamento | [MVP]()|
 
 
 
