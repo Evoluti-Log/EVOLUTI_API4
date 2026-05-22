@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Índice
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e6cafe5c-3d6f-461a-bddf-b057faa959f0" />Índice
 * Projeto
 * Objetivo do Projeto
 * Missão, visão e Valores 
