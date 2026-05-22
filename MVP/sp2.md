@@ -1,51 +1,46 @@
-# 📌 MVP - Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional
+# 📌 MVP - Sprint 1
 
 ## 🎯 Objetivo do MVP
-- O objetivo deste MVP é desenvolver uma ferramenta que integre dados públicos provenientes de diferentes fontes — PRF, DATASUS, DENATRAN e IBGE — para analisar de forma abrangente os indicadores de sinistralidade no trânsito no Brasil. A proposta do MVP é unificar essas bases em uma única plataforma, permitindo a visualização de métricas por estado e em nível nacional.
 
-- Ao centralizar e facilitar o acesso a esses indicadores, o sistema visa aprimorar a compreensão sobre os fatores que influenciam a sinistralidade e contribuir para ações mais eficazes de prevenção e redução de acidentes.
-  
-- A hipótese que será validada com o MVP é que a integração de múltiplas bases públicas de dados em uma plataforma de BI facilita a análise e interpretação das informações sobre sinistros de trânsito, promovendo maior eficiência na elaboração de políticas públicas e estratégias de segurança viária. 
+- Este projeto tem como objetivo desenvolver uma plataforma de Power BI voltada à análise da eficiência dos portos brasileiros, utilizando dados operacionais e indicadores do setor. A proposta envolve a avaliação dos tempos de processamento, permitindo identificar gargalos e oportunidades de melhoria nas operações portuárias.
+- A solução contempla análises específicas, como a eficiência operacional, os tempos de execução das atividades, as paradas portuárias e a movimentação de cargas. Além disso, inclui a análise por grupos, possibilitando comparações entre diferentes portos, terminais ou categorias operacionais. Com isso, a plataforma busca apoiar a tomada de decisão estratégica, promovendo maior produtividade, redução de custos e otimização dos processos logísticos.
 
 ---
 
 ## 📝 Descrição da Solução
-- Nesta sprint será desenvolvido o BI de Sinistralidade no Trânsito, com foco na integração e consolidação dos dados das bases PRF e RENAEST. As atividades incluem a importação, limpeza e padronização das informações, criação do modelo de dados relacional e definição de ligação entre acidentes e vítimas. Também serão geradas as métricas e visualizações no Power BI, como número de acidentes, vítimas por tipo e distribuição por UF e rodovia.
-
-- Ao final da sprint, espera-se obter um protótipo funcional e validado do BI, capaz de cruzar dados das diferentes fontes e oferecer uma visão dos principais indicadores de sinistralidade.
-
+ 
+- Nesta primeira sprint, foram realizadas as etapas iniciais de desenvolvimento, incluindo a coleta, o tratamento e a análise exploratória dos dados, utilizando Python como principal ferramenta. Esse processo permitiu estruturar a base de dados e gerar as primeiras visões analíticas, estabelecendo os fundamentos para as próximas fases do projeto, que envolvem aprofundamento das análises e desenvolvimento da plataforma de BI.
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- Analista de dados: Representado pelo coodernador Marcus Vinícius Nascimento
-
-- Gestor do projeto: Representado por Carlos Bastos 
+- **Analista de dados:** Representado pelo coodernador Marcus Vinícius Nascimento
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1    | Como analista de dados, quero importar os dados da PRF e RENAEST para o ambiente de BI, para iniciar a consolidação.                                                                 | Alta          | 8 |
-| US2    | Como analista, quero tratar e limpar os dados faltantes e valores atípicos, para garantir a qualidade das análises.                                              | Alta          | 5      |
-| US3    | Como analista de dados, quero criar o modelo relacional entre as tabelas para permitir cruzamento entre acidentes e vítimas.  | Média         | 5     |
-| US4    |  Como analista, quero criar dimensões de tempo (ano) para análises temporais.| Média| 8     |
-| US5    | Como gestor do projeto, quero visualizar o número de acidentes por tipo e UF.| Alta          | 8  |                     
+| US1 | Como analista de dados, quero estruturar um repositório no GitHub,para organizar o projeto.        | Alta       | 5 pontos   |
+| US2 | Como analista de dados, quero tratar e limpar os dados coletados, para garantir qualidade, consistência e confiabilidade nas análises.        | Alta      | 5 pontos   |
+| US3 | Como analista de dados, quero desenvolver um script em Python para coleta de dados da ANTAQ, para automatizar a obtenção das informações necessárias.         | Alta      | 8 pontos   |
+| US4 | Como analista de dados, quero realizar uma análise exploratória inicial no Google Colab, para identificar padrões, gerar insights e validar os dados.       | Alta       | 5 pontos   |
+| US5 | Como analista de dados, pretendo desenvolver um protótipo e apresentá-lo em BI.       | Baixa      | 2 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Base de dados RENAEST e PRF.                       | Concluído|
-| 02     | Dashboard relacionando as duas bases de dados.     | Concluído |
-| 03     | Filtros de tempo, localidade, vítimas e causas.    | Concluído |
+| 01     | Criar GitHub.                        | Concluído|
+| 02     | Fazer script em Python.        | Concluído |
+| 03     | Limpar dados.      | Concluído |
+| 04     | Primeira análise no Colab.      | Concluído |
+| 05     | Protótipo (2023 - 2024).      | Concluído |
 
 ---
-## 📊 Critérios de Aceitação
-- No primeiro gráfico mostraremos os tipos de acidentes e os envolvidos.
-- No segundo, a quantidade de acidentes por estados de 2020 á 2025.
 
+## 📊 Critérios de Aceitação
+- Telas BI 
 
 ---
 
@@ -53,9 +48,4 @@
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
-
----
-
-## 📂 Anexos / Evidências
-![shared image (2)](https://github.com/user-attachments/assets/54d653ca-4f5b-4c2c-9077-d4e6c6d33997)
 
