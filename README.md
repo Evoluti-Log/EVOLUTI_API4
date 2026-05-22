@@ -52,17 +52,8 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Missão, Visão e Valores
 
-
-* Missão: Entregar todos os resultados com qualidade.
-
-* Visão: Evoluir conforme o mercado, tornando-se referência com feedbacks positivos.
-
-* Valores: Planejamento, organização, qualidade, responsabilidade e comprometimento.
-
-
-# Equipe Funções 
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0f9f6bcf-388e-4bf7-b9d6-6e7ddb8fb954" />Equipe
 
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
