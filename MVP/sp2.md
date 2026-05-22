@@ -21,8 +21,8 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como analista de dados,quero selecionar e organizar os dados dos anos de 2023 e 2024, para realizar análises comparativas recentes da eficiência portuária.     | Alta       | 5 pontos   |
-| US2 | Como analista de dados,quero filtrar os dados por cargas específicas, como soja e milho, para analisar o comportamento e a eficiência dessas commodities nos portos.       | Alta      | 5 pontos   |
-| US3 | Como analista de dados,quero estruturar um banco de dados em SQL, para armazenar, consultar e gerenciar os dados de forma eficiente.          | Alta      | 5 pontos   |
+| US2 | Como analista de dados,quero filtrar os dados por cargas específicas, como soja e milho, para analisar o comportamento e a eficiência dessas commodities nos portos.       | Média      | 5 pontos   |
+| US3 | Como analista de dados,quero estruturar um banco de dados em SQL, para armazenar, consultar e gerenciar os dados de forma eficiente.          | Média      | 5 pontos   |
 | US4 | Como analista de dados, quero desenvolver métricas como Top 10, total de atracações e volume de cargas, para avaliar o desempenho dos terminais portuários e gerar insights estratégico.       | Alta       | 5 pontos  |
 | US5 | Como analista de dados, quero desenvolver um dashboard interativo, para visualizar de forma dinâmica os indicadores de eficiência portuária.  |Alta       | 8 pontos  |
 | US6 | Como analista de dados, quero criar um ranking de eficiência dos terminais portuários, para comparar desempenhos e identificar os mais eficientes.      | Alta       | 5 pontos  |
