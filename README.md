@@ -34,21 +34,21 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Objetivo do Projeto
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/28f2b862-7bcb-4a2c-a67c-4936447b1507" />Objetivo do Projeto
 
 
 O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize informações sobre a eficiência portuária com base nos tempos de processamentos nos portos brasileiros e dados específicos do setor.
 
 
-• Análise de Eficiência
+* Análise de Eficiência
 
-• Avaliação dos tempos de operação
+* Avaliação dos tempos de operação
  
-• Análise de paradas portuárias
+* Análise de paradas portuárias
  
-• Análise de movimentação
+* Análise de movimentação
 
-• Análise de cargas 
+* Análise de cargas 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
