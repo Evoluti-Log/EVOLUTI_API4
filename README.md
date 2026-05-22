@@ -135,7 +135,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:------:|:----------:|:-------------------|:------------:|
 | 01     | 24/04 | Concluido   | [MVP](MVP/sp1.md)|
-| 02 | 15/05 | Em andamento    | [MVP]()|
+| 02 | 22/05 | Concluido    | [MVP]()|
 | 03 | 05/06 | Em andamento    | [MVP]()
 | Feira de soluções | 18/06 | Em andamento | [MVP]()|
 
