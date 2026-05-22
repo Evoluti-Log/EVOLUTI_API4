@@ -1,4 +1,4 @@
-# 📌 MVP - Sprint 1
+# 📌 MVP - Sprint 2
 
 ## 🎯 Objetivo do MVP
 
@@ -9,7 +9,7 @@
 
 ## 📝 Descrição da Solução
  
-- Nesta primeira sprint, foram realizadas as etapas iniciais de desenvolvimento, incluindo a coleta, o tratamento e a análise exploratória dos dados, utilizando Python como principal ferramenta. Esse processo permitiu estruturar a base de dados e gerar as primeiras visões analíticas, estabelecendo os fundamentos para as próximas fases do projeto, que envolvem aprofundamento das análises e desenvolvimento da plataforma de BI.
+- Nesta primeira sprint, foram realizados o tratamento e a análise dos dados de 2023 e 2024, além da criação de filtros específicos para cargas como soja e milho. Também foi iniciada a estruturação do banco de dados em SQL e o desenvolvimento das primeiras métricas, incluindo Top 10, total de atracações e volume de carga, estabelecendo a base para as próximas etapas do projeto de BI.
 ---
 
 ## 👥 Personas / Usuários-Alvo
@@ -31,11 +31,10 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Criar GitHub.                        | Concluído|
-| 02     | Fazer script em Python.        | Concluído |
-| 03     | Limpar dados.      | Concluído |
-| 04     | Primeira análise no Colab.      | Concluído |
-| 05     | Protótipo (2023 - 2024).      | Concluído |
+| 01     | Trabalhar dados de 2023 e 2024. | Concluído|
+| 02     | Filtrar dados (ex: soja e milho).| Concluído |
+| 03     | Criar métricas (Top 10, total de atracações e volume de cargas.| Concluído |
+
 
 ---
 
