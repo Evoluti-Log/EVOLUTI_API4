@@ -22,15 +22,15 @@
 
 # <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b5d9dd15-07ed-4042-8ecd-a8c04368c45a" />Projeto (API)  
 
-• Este estudo tem como objetivo analisar a eficiência dos terminais portuários.
-• Levantar e registrar requisitos usando técnicas de Métodos Ágeis e Tradicionais
-• Documentar adequadamente DoR e DoD
-• Planejar desenvolvimento do projeto (Backlog de produto e Backlog de Sprint)
-• Revisar código vendo suas estruturas de dados
-• Analisar os tempos de operação portuária 
-• Avaliar a eficiência entre terminais de operação
-• Analisar os top motivos de paradas de operação registradas
-• Implementar aplicação usando conceitos de orientação a objetos (ORM)
+* Este estudo tem como objetivo analisar a eficiência dos terminais portuários.
+* Levantar e registrar requisitos usando técnicas de Métodos Ágeis e Tradicionais
+* Documentar adequadamente DoR e DoD
+* Planejar desenvolvimento do projeto (Backlog de produto e Backlog de Sprint)
+* Revisar código vendo suas estruturas de dados
+* Analisar os tempos de operação portuária 
+* Avaliar a eficiência entre terminais de operação
+* Analisar os top motivos de paradas de operação registradas
+* Implementar aplicação usando conceitos de orientação a objetos (ORM)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
