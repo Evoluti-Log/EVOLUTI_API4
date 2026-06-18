@@ -99,7 +99,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 | 10    | Alta       | Como analista de dados, quero desenvolver um dashboard interativo, para visualizar de forma dinâmica os indicadores de eficiência portuária.   | 8         | 2      |
 | 11    | Alta       | Como analista de dados, quero criar um ranking de eficiência dos terminais portuários, para comparar desempenhos e identificar os mais eficientes.   | 5          | 2      |
 | 12    | Alta       | Como analista de dados, quero analisar os tempos de operação dos terminais, para identificar gargalos e oportunidades de melhoria.   | 5          | 2      |
-|13    | Média       | Como analista de dados, quero analisar os motivos de paradas portuárias, para entender as causas de ineficiência e propor melhorias.   | 5          | 3      |
+|13    | Alta       | Como analista de dados, quero analisar os motivos de paradas portuárias, para entender as causas de ineficiência e propor melhorias.   | 5          | 3      |
 | 14    | Alta       | Como analista de dados, quero desenvolver um algoritmo de cálculo de eficiência, para gerar um indicador consolidado de desempenho dos terminais.  | 5          | 3      |
 | 15    | Alta       | Como analista de dados,quero desenvolver uma interface final responsiva e com boa performance, para garantir uma experiência de uso eficiente na visualização dos dados e dashboards do projeto.  | 5          | 3      |
 
