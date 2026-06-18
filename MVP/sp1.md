@@ -37,10 +37,6 @@
 | 04     | Primeira análise no Colab.      | Concluído |
 | 05     | Protótipo (2023 - 2024).      | Concluído |
 
----
-
-## 📊 Critérios de Aceitação
-- Telas BI 
 
 ---
 
