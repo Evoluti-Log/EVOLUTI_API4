@@ -1,6 +1,6 @@
 # 📌 MVP - Sprint 3  
 
-## 🎯 Objetivo do MVP
+## 🎯 Objetivo do MVP ...
 
 - Este projeto tem como objetivo desenvolver uma plataforma de Power BI voltada à análise da eficiência dos portos brasileiros, utilizando dados operacionais e indicadores do setor. A proposta envolve a avaliação dos tempos de processamento, permitindo identificar gargalos e oportunidades de melhoria nas operações portuárias.
 - A solução contempla análises específicas, como a eficiência operacional, os tempos de execução das atividades, as paradas portuárias e a movimentação de cargas. Além disso, inclui a análise por grupos, possibilitando comparações entre diferentes portos, terminais ou categorias operacionais. Com isso, a plataforma busca apoiar a tomada de decisão estratégica, promovendo maior produtividade, redução de custos e otimização dos processos logísticos.
