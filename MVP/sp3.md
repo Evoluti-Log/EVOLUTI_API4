@@ -1,56 +1,50 @@
-# 📌 MVP - Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional
+# 📌 MVP - Sprint 3
 
 ## 🎯 Objetivo do MVP
-- O objetivo deste MVP é desenvolver uma ferramenta que integre dados públicos provenientes de diferentes fontes — PRF, DATASUS, DENATRAN e IBGE — para analisar de forma abrangente os indicadores de sinistralidade no trânsito no Brasil. A proposta do MVP é unificar essas bases em uma única plataforma, permitindo a visualização de métricas por estado e em nível nacional.
 
-- Ao centralizar e facilitar o acesso a esses indicadores, o sistema visa aprimorar a compreensão sobre os fatores que influenciam a sinistralidade e contribuir para ações mais eficazes de prevenção e redução de acidentes.
-  
-- A hipótese que será validada com o MVP é que a integração de múltiplas bases públicas de dados em uma plataforma de BI facilita a análise e interpretação das informações sobre sinistros de trânsito, promovendo maior eficiência na elaboração de políticas públicas e estratégias de segurança viária. 
-
+- Este projeto tem como objetivo desenvolver uma plataforma de Power BI voltada à análise da eficiência dos portos brasileiros, utilizando dados operacionais e indicadores do setor. A proposta envolve a avaliação dos tempos de processamento, permitindo identificar gargalos e oportunidades de melhoria nas operações portuárias.
+- A solução contempla análises específicas, como a eficiência operacional, os tempos de execução das atividades, as paradas portuárias e a movimentação de cargas. Além disso, inclui a análise por grupos, possibilitando comparações entre diferentes portos, terminais ou categorias operacionais. Com isso, a plataforma busca apoiar a tomada de decisão estratégica, promovendo maior produtividade, redução de custos e otimização dos processos logísticos.
 
 ---
 
-## 📝 Descrição da Solução  
-- Nessa sprint apresentamos um dashboard interativo desenvolvido em Power BI para análise estratégica de acidentes de trânsito no Brasil, utilizando dados públicos da PRF (RENAEST) e do Observatório Nacional de Segurança Viária.
-- Será desenvolvido um Dashboard Geral com KPIs de acidentes, óbitos, taxa de mortalidade e evolução histórica, além do Mapa de Acidentes com análise geográfica e rankings regionais.
-- Também avançaremos na implementação dos indicadores operacionais, trazendo análises por turno, condições da pista, clima e distribuição horária.
-- Esta sprint estabelece a base visual e analítica do projeto, permitindo que os usuários tenham uma visão clara e interativa.
-
+## 📝 Descrição da Solução
+ 
+- Nesta primeira sprint, foram realizados o tratamento e a análise dos dados de 2023 e 2024, além da criação de filtros específicos para cargas como soja e milho. Também foi iniciada a estruturação do banco de dados em SQL e o desenvolvimento das primeiras métricas, incluindo Top 10, total de atracações e volume de carga, estabelecendo a base para as próximas etapas do projeto de BI.
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Analista de dados:** Representado pelo coodernador Marcus Vinícius Nascimento 
-- **Gestor do projeto:** Representado por Carlos Bastos   
+- **Analista de dados:** Representado pelo coodernador Marcus Vinícius Nascimento
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista, quero visualizar um mapa com todos os acidentes registrados para identificar padrões geógraficos e regiões críticas.         | Média       | 5 pontos   |
-| US2 | Como gestor, quero visualizar um ranking de acidentes por estado.         | Alta      | 3 pontos   |
-| US3 | Como analista quero visualizar a distribuição de tipos de acidentes, para entender quais categorias são mais frequentes.         | Média       | 5 pontos   |
-| US4 | Como gestor, quero visualizar o número total de óbitos por acidentes         | Média      | 3 pontos   |
-| US5 | Como analista, quero visualizar a quantidade e tipos de veículos envolvidos, para identificar os veículos mais frequentes em acidentes         | Alta       | 8 pontos   |
-| US6 | Como analista, quero ver um ranking dos estados com mais óbitos.        | Alta      | 8 pontos   |
+| US1 | Como analista de dados,quero selecionar e organizar os dados dos anos de 2023 e 2024, para realizar análises comparativas recentes da eficiência portuária.     | Alta       | 5 pontos   |
+| US2 | Como analista de dados,quero filtrar os dados por cargas específicas, como soja e milho, para analisar o comportamento e a eficiência dessas commodities nos portos.       | Média      | 5 pontos   |
+| US3 | Como analista de dados,quero estruturar um banco de dados em SQL, para armazenar, consultar e gerenciar os dados de forma eficiente.          | Média      | 5 pontos   |
+| US4 | Como analista de dados, quero desenvolver métricas como Top 10, total de atracações e volume de cargas, para avaliar o desempenho dos terminais portuários e gerar insights estratégico.       | Alta       | 5 pontos  |
+| US5 | Como analista de dados, quero desenvolver um dashboard interativo, para visualizar de forma dinâmica os indicadores de eficiência portuária.  |Alta       | 8 pontos  |
+| US6 | Como analista de dados, quero criar um ranking de eficiência dos terminais portuários, para comparar desempenhos e identificar os mais eficientes.      | Alta       | 5 pontos  |
+| US7 | Como analista de dados, quero analisar os tempos de operação dos terminais, para identificar gargalos e oportunidades de melhoria.  | Alta       | 5 pontos  |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | KPIs de acidentes, óbitos, taxa de mortalidade e evolução histórica, além do mapa de acidentes com análise geográfica e rankings regionais.                      | Concluído|
-| 02     | indicadores operacionais, trazendo análises por turno, condições da pista, clima e distribuição horária.                          | Concluído |
+| 01     | Trabalhar dados de 2023 e 2024. | Concluído|
+| 02     | Filtrar dados (ex: soja e milho).| Concluído |
+| 03     | Criar métricas (Top 10, total de atracações e volume de cargas.| Concluído |
 
+
+---
+
+## 📊 Critérios de Aceitação
+- Telas BI 
 
 ---
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
----
-
-## 📂 Anexos / Evidências
-
