@@ -119,8 +119,8 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 |:------:|:----------:|:-------------------|:------------:|
 | 01     | 24/04 | Concluido   | [MVP](https://github.com/Evoluti-Log/EVOLUTI_API4/blob/d31ea92ed8a2c4c0f06594a0f81b76efbe9d4f80/MVP/sp1.md)|
 | 02 | 29/05 | Concluido    | [MVP](https://github.com/Evoluti-Log/EVOLUTI_API4/blob/d31ea92ed8a2c4c0f06594a0f81b76efbe9d4f80/MVP/sp2.md)|
-| 03 | 19/06 | Concluido    | [MVP]()
-| Feira de soluções | 25/06 | Em andamento | [MVP]()|
+| 03 | 19/06 | Concluido    | [MVP](https://github.com/Evoluti-Log/EVOLUTI_API4/blob/57ea36ce7ed9349fe1fd3a893e22f5b27166f7a5/MVP/sp3.md)
+| Feira de soluções | 25/06 | Concluido | [MVP](https://github.com/Evoluti-Log/EVOLUTI_API4/blob/57ea36ce7ed9349fe1fd3a893e22f5b27166f7a5/MVP/sp3.md)|
 
 
 
