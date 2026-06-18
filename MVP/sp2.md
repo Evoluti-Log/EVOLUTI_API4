@@ -40,11 +40,6 @@
 
 ---
 
-## 📊 Critérios de Aceitação
-- Telas BI 
-
----
-
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
