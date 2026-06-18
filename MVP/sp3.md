@@ -20,9 +20,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista de dados, quero analisar os motivos de paradas portuárias, para entender as causas de ineficiência e propor melhorias.     | Alta       | 5 pontos   |
-| US2 | Como analista de dados, quero desenvolver um algoritmo de cálculo de eficiência, para gerar um indicador consolidado de desempenho dos terminais.       | Média      | 5 pontos   |
-| US3 | Como analista de dados,quero desenvolver uma interface final responsiva e com boa performance, para garantir uma experiência de uso eficiente na visualização dos dados e dashboards do projeto.       | Média      | 5 pontos   |
+| US1 | Como analista de dados, quero analisar os motivos de paradas portuárias, para entender as causas de ineficiência e propor melhorias.     | Média       | 5 pontos   |
+| US2 | Como analista de dados, quero desenvolver um algoritmo de cálculo de eficiência, para gerar um indicador consolidado de desempenho dos terminais.       | Alta      | 5 pontos   |
+| US3 | Como analista de dados,quero desenvolver uma interface final responsiva e com boa performance, para garantir uma experiência de uso eficiente na visualização dos dados e dashboards do projeto.       | Alta      | 5 pontos   |
 
 
 ---
